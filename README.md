@@ -32,7 +32,7 @@ This application binds every generated session token to the user's **client brow
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/ArmaanBudhiraja/session-hijacking-detection-demo.git
+git clone https://github.com/jaisanish/session-hijacking-detection-demo.git
 cd session-hijacking-detection-demo
 ```
 
